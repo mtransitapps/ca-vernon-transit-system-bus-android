@@ -5,7 +5,7 @@ Vernon Regional TS buses for MonTransit.
 Schedule. Alerts. News.
 ----------
 What's new in this version?:
-Schedule from September 25, 2018 to December 31, 2018.
+Schedule from November 20, 2018 to June 1, 2019.
 Tweets from @BCTransit.
 ----------
 Full description:
