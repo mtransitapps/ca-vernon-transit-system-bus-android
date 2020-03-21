@@ -3,5 +3,5 @@
 'VERN2004-VERN2004-Sunday-03',901,91100,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound'
 'VERN2004-VERNWKD-Weekday-01',901,70400,0,'Outbound',1700,0,'Outbound',1700,0,'Outbound',1700,0,'Outbound',5700,0,'Outbound',1700,0,'Outbound',1700,0,'Outbound',5700,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',5700,0,'Outbound',1700,0,'Outbound',1700,0,'Outbound',5700,0,'Outbound',1700,0,'Outbound',1700,0,'Outbound',1700,0,'Outbound',5700,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound'
 'VERN2004-VERNWKD-Weekday-01-0000100',901,195100,0,'Outbound',7200,0,'Outbound',3200,0,'Outbound',7200,0,'Outbound'
-'VERN2004-VER2001-Saturday-02',6000,94100,,'',16600,,'',22600,,'',17500,,''
-'VERN2004-VERNWKD-Weekday-01',6000,74800,,'',26200,,'',30800,,'',22300,,'',21700,,''
+'VERN2004-VER2001-Saturday-02',6000,94100,0,'Armstrong Only',16600,0,'Armstrong Only',22600,0,'Armstrong Only',17500,0,'Armstrong Only'
+'VERN2004-VERNWKD-Weekday-01',6000,74800,,'',26200,0,'Armstrong Only',30800,,'',22300,,'',21700,,''
