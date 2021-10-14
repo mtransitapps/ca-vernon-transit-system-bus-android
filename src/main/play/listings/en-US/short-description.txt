@@ -1,2 +1,1 @@
-Vernon Regional TS buses for MonTransit.
-Schedule. Alerts. News.
+Vernon Regional Transit System buses for MonTransit. Schedule. Alerts. News.
