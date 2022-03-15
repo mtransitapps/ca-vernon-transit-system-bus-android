@@ -3,7 +3,7 @@
 300,0,'Downtown',3
 301,0,'North End',3
 400,0,'Downtown',4
-501,0,'Downtown',5
+501,0,'Mission Hl',5
 6029,0,'Downtown',6
 6019,0,'Hosp',6
 701,0,'Downtown',7
@@ -14,5 +14,5 @@
 6001,0,'Vernon',60
 6100,0,'Lumby',61
 6101,0,'Vernon',61
-9001,0,'UBCO',90
-9000,0,'Vernon',90
+9000,0,'Downtown Exch B:E',90
+9001,0,'UBCO Exch B:E',90
