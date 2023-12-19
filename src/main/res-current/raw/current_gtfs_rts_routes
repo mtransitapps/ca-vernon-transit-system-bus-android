@@ -1,20 +1,20 @@
-1,'1','Coldstream','004B8E'
-2,'2','Pleasant Valley','8AC641'
-3,'3','North End Via Alexis Park','F68C1F'
-4,'4','East Hill','8E0C3A'
-5,'5','South Vernon','E81D89'
-6,'6','College','01AEF0'
-7,'7','Okanagan Landing','00AB4F'
-8,'8','Bella Vista','B3AB7D'
-9,'9','North End','E170AA'
-21,'21','West Loop','002C77'
-22,'22','College/Hillcrest','002C77'
-23,'23','Canoe','002C77'
-24,'24','Pierre''s Point','002C77'
-25,'25','Shopper''s Shuttle','002C77'
-41,'41','Salmon Arm-Enderby','002C77'
-42,'42','Salmon Arm-Eagle Bay','002C77'
-43,'43','Salmon Arm-Sorrento','002C77'
-60,'60','Enderby','A7439B'
-61,'61','Lumby','B3B828'
-90,'90','UBCO','AB5B38'
+1,'1','Coldstream','004B8E',-954758778,3
+2,'2','Pleasant Valley','8AC641',788051557,3
+3,'3','North End Via Alexis Park','F68C1F',-1764105404,3
+4,'4','East Hill','8E0C3A',-21295069,3
+5,'5','South Vernon','E81D89',1721515266,3
+6,'6','College','01AEF0',-830641695,3
+7,'7','Okanagan Landing','00AB4F',912168640,3
+8,'8','Bella Vista','B3AB7D',-1639988321,3
+9,'9','North End','E170AA',102822014,3
+21,'21','West Loop','002C77',-1133168712,3
+22,'22','College/Hillcrest','002C77',609641623,3
+23,'23','Canoe','002C77',-1942515338,3
+24,'24','Pierre''s Point','002C77',-199705003,3
+25,'25','Shopper''s Shuttle','002C77',1543105332,3
+41,'41','Salmon Arm-Enderby','002C77',-453110342,3
+42,'42','Salmon Arm-Eagle Bay','002C77',1289699993,3
+43,'43','Salmon Arm-Sorrento','002C77',-1262456968,3
+60,'60','Enderby','A7439B',-1515862307,3
+61,'61','Lumby','B3B828',226948028,3
+90,'90','UBCO','AB5B38',1651708896,3
