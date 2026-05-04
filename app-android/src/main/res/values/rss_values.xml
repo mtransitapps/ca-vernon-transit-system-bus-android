@@ -14,7 +14,7 @@
     <string-array name="rss_feeds_author_name">
         <item>Shuswap</item>
         <item>Vernon</item>
-        <item>@string/parent_agency_name</item>
+        <item>@string/parent_agency_short_name</item>
     </string-array>
     <string-array name="rss_feeds_author_url">
         <item>https://www.bctransit.com/shuswap/news/</item>
